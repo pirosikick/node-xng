@@ -1,0 +1,33 @@
+{
+  "name": "node-xng",
+  "version": "0.0.1",
+  "description": "XNG",
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Hiroyuki ANAI <pirosikick@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promise": "^2.0.0",
+    "es6-promisify": "^1.1.1",
+    "lodash": "^2.4.1"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "gulp": "^3.8.10",
+    "gulp-load-plugins": "^0.7.1",
+    "gulp-mocha": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pirosikick/node-xng.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pirosikick/node-xng/issues"
+  },
+  "homepage": "https://github.com/pirosikick/node-xng"
+}
